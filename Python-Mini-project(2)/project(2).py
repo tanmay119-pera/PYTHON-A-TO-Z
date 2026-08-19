@@ -1,4 +1,4 @@
-'''                                        RANDOM PASSWORD GENERATOR                                              '''
+'''                               PROJECT-2 "RANDOM PASSWORD GENERATOR"                                             '''
 
 import random 
 import string 
