@@ -1,4 +1,4 @@
-'''                                        GUESS THE NUMBER                                                        '''
+'''                                  PROJECT-1 "GUESS THE NUMBER"                                                        '''
 
 import random 
 
