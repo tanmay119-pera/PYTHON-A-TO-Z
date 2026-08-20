@@ -1,21 +1,23 @@
 <div align="center">
 
-# 🐍 PYTHON A-TO-Z : Complete Mastery Repository
+# PYTHON A-TO-Z : Complete Mastery Repository
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,24,35,42&height=220&section=header&text=Python%20A-to-Z%20Mastery&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=From%20Core%20Fundamentals%20to%20OOP%20%26%20Real-World%20Mini%20Projects&descFontSize=18&descFontColor=d1d5db&descAlignY=62" width="100%" alt="Python A-to-Z Banner" />
+<!-- Native Vector Banner with Official Python Logo (100% Reliable & Cached on GitHub) -->
+<p align="center">
+  <img src="./banner.svg" alt="Python A-to-Z Banner" width="100%" />
+</p>
 
-<br/>
-
-<!-- Badges Banner -->
-[![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![VS Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-[![Google Antigravity](https://img.shields.io/badge/Google_Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://deepmind.google/)
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](LICENSE)
+<!-- Tech Badges Banner -->
+<p align="center">
+  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
+  <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" /></a>
+  <a href="https://deepmind.google/"><img src="https://img.shields.io/badge/Google_Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Antigravity" /></a>
+  <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-2ea44f?style=for-the-badge" alt="License" /></a>
+</p>
 
 <p align="center">
-  <strong>A structured, modular, and hands-on Python learning curriculum.</strong><br/>
-  Featuring clear notes, syntax cheat sheets, algorithmic practice problems (WAPs), and full mini-projects.
+  <strong>A structured, beginner-to-advanced curriculum covering core Python, Data Structures, OOP, and Mini Projects.</strong>
 </p>
 
 ---
@@ -27,7 +29,7 @@
 - [🌟 Repository Highlights](#-repository-highlights)
 - [📂 Curriculum & Folder Structure](#-curriculum--folder-structure)
 - [🗺️ Module Breakdown](#️-module-breakdown)
-- [🛠️ Tech Stack & Environment](#️-tech-stack--environment)
+- [🛠️ Tech Stack & Tools](#️-tech-stack--tools)
 - [🚀 Quick Start Guide](#-quick-start-guide)
 - [⭐ Contributing & Support](#-contributing--support)
 
@@ -38,7 +40,7 @@
 - 🎯 **Beginner to Advanced**: Step-by-step progression from basic syntax to Object-Oriented Programming (OOP).
 - 🧩 **Hands-on WAPs (Write A Program)**: Real coding interview questions and logic puzzles with full solutions.
 - 🏗️ **Mini-Projects Included**: Practical projects to solidify end-to-end coding fundamentals.
-- ⚡ **Clean & PEP 8 Compliant**: Organized and commented code ready for reference.
+- ⚡ **Clean & PEP 8 Compliant**: Well-documented and commented code for quick revision.
 
 ---
 
@@ -58,6 +60,7 @@ PYTHON-A-TO-Z/
 ├── 📁 CH-9-OOPS-2/            # Inheritance, polymorphism, encapsulation & dunder methods
 ├── 📁 python-Mini-Project-1/  # Real-world project 1 (Logic & State management)
 ├── 📁 Python-Mini-project-2/  # Real-world project 2 (Application & Data flow)
+├── 🖼️ banner.svg              # Native vector banner with Python logo
 └── 📄 README.md               # Main repository documentation
 ```
 
@@ -81,7 +84,7 @@ PYTHON-A-TO-Z/
 
 ---
 
-## 🛠️ Tech Stack & Environment
+## 🛠️ Tech Stack & Tools
 
 <div align="center">
 
@@ -104,12 +107,12 @@ git clone https://github.com/your-username/PYTHON-A-TO-Z.git
 cd PYTHON-A-TO-Z
 ```
 
-### 2. Navigate and Run Any Chapter
+### 2. Run Any Chapter or Mini-Project
 ```bash
-# Example: Run Chapter 1 Intro
+# Run Chapter 1 Intro
 python CH-1-Intro/main.py
 
-# Example: Run Mini-Project 1
+# Run Mini-Project 1
 python python-Mini-Project-1/main.py
 ```
 
@@ -121,8 +124,6 @@ python python-Mini-Project-1/main.py
 If you find this Python roadmap and practice code helpful, please consider giving it a **star**!
 
 <br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,24,35,42&height=100&section=footer" width="100%" alt="Footer Wave" />
 
 <sub>Crafted with passion for clean code & Python mastery 🚀</sub>
 
