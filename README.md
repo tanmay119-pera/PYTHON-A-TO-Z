@@ -126,3 +126,11 @@ If you find this repository helpful for learning or teaching Python, please cons
 <sub>Crafted with passion for clean code & Python mastery 🚀</sub>
 
 </div>
+
+---
+
+<div align="center">
+
+Made with ❤️ for mastering Python | AUTHOR - ADESH SRIVASTAVA!
+
+</div>
