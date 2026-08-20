@@ -72,6 +72,6 @@
   <!-- Corner Author Badge -->
   <g transform="translate(800, 275)">
     <rect x="0" y="0" width="335" height="32" rx="16" fill="url(#authorGrad)" fill-opacity="0.25" stroke="#ec4899" stroke-width="1.2"/>
-    <text x="167" y="21" text-anchor="middle" class="author-tag">MADE WITH ❤️ BY -ADESH SRIVASTAVA</text>
+    <text x="167" y="21" text-anchor="middle" class="author-tag">MADE BY ❤️ - ADESH SRIVASTAVA</text>
   </g>
 </svg>
