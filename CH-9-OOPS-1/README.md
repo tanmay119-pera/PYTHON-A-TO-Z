@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🏛️ OBJECT-Oriented Programming (OOP) in Python — Chapter 9
+# 🏛️ OBJECT ORIENTED PROGRAMMING (OOP) IN PYTHON — CHAPTER 9
 
 [![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
@@ -521,3 +521,11 @@ print("v1 . v2 =", dot_prod)     # Output: 23
 ## 📄 License
 
 This repository is maintained for educational reference and Python mastery. Free to use, adapt, and share!
+
+---
+
+<div align="center">
+
+Made with ❤️ for mastering Python | ⭐ Star this repo if you found it helpful AUTHOR - ADESH SRIVASTAVA!
+
+</div>

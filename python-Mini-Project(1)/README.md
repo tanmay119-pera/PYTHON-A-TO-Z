@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎮 Project 1: "Guess The Number" Game
+# 🎮 PROJECT 1: "GUESS THE NUMBER GAME"
 
 [![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
@@ -278,3 +278,19 @@ class NumberGuessingGame:
 ## 📄 License
 
 This repository is maintained for educational reference and Python mastery. Free to use, adapt, and share!
+
+---
+
+<div align="center">
+
+Made with ❤️ for mastering Python | ⭐ Star this repo if you found it helpful AUTHOR - ADESH SRIVASTAVA!
+
+</div>
+
+---
+
+<div align="center">
+
+Made with ❤️ for mastering Python | ⭐ Star this repo if you found it helpful AUTHOR - ADESH SRIVASTAVA!
+
+</div>
