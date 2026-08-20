@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0b1120"/>
+      <stop offset="50%" stop-color="#1e293b"/>
+      <stop offset="100%" stop-color="#0b1120"/>
+    </linearGradient>
+
+    <linearGradient id="titleGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8"/>
+      <stop offset="60%" stop-color="#818cf8"/>
+      <stop offset="100%" stop-color="#ffd43b"/>
+    </linearGradient>
+
+    <linearGradient id="pyBlue" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#38bdf8"/>
+      <stop offset="100%" stop-color="#2563eb"/>
+    </linearGradient>
+
+    <linearGradient id="pyYellow" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#fde047"/>
+      <stop offset="100%" stop-color="#eab308"/>
+    </linearGradient>
+
+    <linearGradient id="cardGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#1e293b" stop-opacity="0.95"/>
+      <stop offset="100%" stop-color="#0f172a" stop-opacity="0.98"/>
+    </linearGradient>
+
+    <linearGradient id="authorGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ec4899"/>
+      <stop offset="100%" stop-color="#8b5cf6"/>
+    </linearGradient>
+  </defs>
+
+  <style>
+    .title { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-weight: 800; font-size: 52px; fill: url(#titleGrad); letter-spacing: 1.5px; }
+    .subtitle { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-weight: 500; font-size: 20px; fill: #94a3b8; }
+    .tag { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-weight: 600; font-size: 15px; fill: #f1f5f9; }
+    .author-tag { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-weight: 700; font-size: 13px; fill: #ffffff; letter-spacing: 0.8px; }
+    .pill { rx: 19px; ry: 19px; }
+  </style>
+
+  <rect width="1200" height="360" rx="16" fill="url(#bgGrad)"/>
+  <rect x="2" y="2" width="1196" height="356" rx="14" fill="none" stroke="#334155" stroke-width="2"/>
+
+  <circle cx="1120" cy="50" r="160" fill="#38bdf8" fill-opacity="0.08"/>
+  <circle cx="80" cy="300" r="140" fill="#facc15" fill-opacity="0.05"/>
+
+  <rect x="40" y="30" width="1120" height="300" rx="12" fill="url(#cardGrad)" stroke="#334155" stroke-width="1.5"/>
+
+  <g transform="translate(340, 50)">
+    <g transform="translate(0, 5) scale(0.68)">
+      <path fill="url(#pyBlue)" d="M54.72 0c-28.72 0-26.96 12.45-26.96 12.45l.03 12.89h27.42v3.91H16.8S0 27.39 0 56.24c0 28.84 14.67 27.8 14.67 27.8h8.75v-12.3c0-14.07 12.16-13.62 12.16-13.62h27.32c12.28 0 12.18-11.83 12.18-11.83V12.45S76.88 0 54.72 0zM39.69 8.52a4.4 4.4 0 1 1 0 8.8 4.4 4.4 0 0 1 0-8.8z"/>
+      <path fill="url(#pyYellow)" d="M55.28 110c28.72 0 26.96-12.45 26.96-12.45l-.03-12.89H54.79v-3.91h38.41S110 82.61 110 53.76c0-28.84-14.67-27.8-14.67-27.8h-8.75v12.3c0 14.07-12.16 13.62-12.16 13.62H47.1c-12.28 0-12.18 11.83-12.18 11.83v23.84S33.12 110 55.28 110zm15.03-8.52a4.4 4.4 0 1 1 0-8.8 4.4 4.4 0 0 1 0 8.8z"/>
+    </g>
+    <text x="95" y="60" class="title">PYTHON A-TO-Z</text>
+  </g>
+
+  <text x="50%" y="160" text-anchor="middle" class="subtitle">Complete Python Mastery: Core Fundamentals • Data Structures • OOP • Mini Projects</text>
+
+  <rect x="225" y="195" width="155" height="38" class="pill" fill="#1e3a8a" fill-opacity="0.7" stroke="#3b82f6" stroke-width="1.5"/>
+  <text x="302" y="220" text-anchor="middle" class="tag">📚 10+ Chapters</text>
+
+  <rect x="400" y="195" width="175" height="38" class="pill" fill="#4c1d95" fill-opacity="0.7" stroke="#8b5cf6" stroke-width="1.5"/>
+  <text x="487" y="220" text-anchor="middle" class="tag">💻 50+ WAP Codes</text>
+
+  <rect x="595" y="195" width="165" height="38" class="pill" fill="#065f46" fill-opacity="0.7" stroke="#10b981" stroke-width="1.5"/>
+  <text x="677" y="220" text-anchor="middle" class="tag">⚙️ OOP Mastery</text>
+
+  <rect x="780" y="195" width="175" height="38" class="pill" fill="#854d0e" fill-opacity="0.7" stroke="#eab308" stroke-width="1.5"/>
+  <text x="867" y="220" text-anchor="middle" class="tag">🚀 Mini Projects</text>
+
+  <g transform="translate(800, 275)">
+    <rect x="0" y="0" width="335" height="32" rx="16" fill="url(#authorGrad)" fill-opacity="0.25" stroke="#ec4899" stroke-width="1.2"/>
+    <text x="167" y="21" text-anchor="middle" class="author-tag">MADE WITH ❤️ BY ADESH SRIVASTAVA</text>
+  </g>
+</svg>
