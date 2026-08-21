@@ -299,6 +299,6 @@ else:
 
 <div align="center">
 
-Made with ❤️ for mastering Python | ⭐ Star this repo if you found it useful. Author - ADESH SRIVASTAVA!
+Made with ❤️ for mastering Python | ⭐ Star this repo if you found it useful. Author - ADESH SRIVASTAVA(TANMAY)!
 
 </div>

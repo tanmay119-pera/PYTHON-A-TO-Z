@@ -131,6 +131,6 @@ If you find this repository helpful for learning or teaching Python, please cons
 
 <div align="center">
 
-Made with ❤️ for mastering Python | AUTHOR - ADESH SRIVASTAVA!
+Made with ❤️ for mastering Python | AUTHOR - ADESH SRIVASTAVA(TANMAY)!
 
 </div>

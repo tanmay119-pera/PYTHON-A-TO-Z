@@ -291,6 +291,6 @@ Made with ❤️ for mastering Python | ⭐ Star this repo if you found it helpf
 
 <div align="center">
 
-Made with ❤️ for mastering Python | ⭐ Star this repo if you found it helpful AUTHOR - ADESH SRIVASTAVA!
+Made with ❤️ for mastering Python | ⭐ Star this repo if you found it helpful AUTHOR - ADESH SRIVASTAVA(TANMAY)!
 
 </div>

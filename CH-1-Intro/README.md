@@ -177,6 +177,6 @@ print("Tax rate:", tax_rate)
 
 <div align="center">
 
-Made with ❤️ for learning Python | ⭐ Star this repo if you found it helpful.Author - ADESH SRIVASTAVA!!
+Made with ❤️ for learning Python | ⭐ Star this repo if you found it helpful.Author - ADESH SRIVASTAVA(TANMAY)!!
 
 </div>
