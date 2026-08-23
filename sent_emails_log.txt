@@ -1,0 +1,3 @@
+Sent To: alice@example.com | Subject: Update on your project: QR Generator
+Sent To: bob@example.com | Subject: Update on your project: Weather Checker
+Sent To: charlie@example.com | Subject: Update on your project: Portfolio Website
