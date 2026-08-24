@@ -1,6 +1,6 @@
 <div align="center">
 
-# 💰 Project 7: Personal Finance Tracker
+# 💰 PROJECT 7: PERSONAL FINANCE TRACKER
 
 [![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Data Storage](https://img.shields.io/badge/Storage-JSON_File-0284C7?style=for-the-badge&logo=json&logoColor=white)](https://www.json.org/)
@@ -411,6 +411,6 @@ Enter your choice (1-8): 8
 
 <div align="center">
 
-Made with ❤️ for Python OOP & Personal Finance Automation | ⭐ Star this project if you found it useful AUTHOR - ADESH SRIVASTAVA!
+Made with ❤️ for Python OOP & Personal Finance Automation | ⭐ Star this project if you found it useful AUTHOR - ADESH SRIVASTAVA(TANMAY)!
 
 </div>
