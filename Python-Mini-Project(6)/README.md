@@ -1,4 +1,4 @@
-# 📪 Project 6: Automated Bulk Email Sender
+# 📪 PROJECT 6: AUTOMATED BULK E-MAIL SENDER !
 
 A production-ready Python automation tool designed to dispatch personalized batch emails over encrypted SSL with real-time file activity logging.
 
