@@ -228,3 +228,17 @@ load_dotenv()
 SENDER = os.getenv("SENDER_EMAIL")
 APP_PASSWORD = os.getenv("GMAIL_APP_PASSWORD")
 ```
+
+---
+
+## 📄 License
+
+This repository is maintained for educational reference and Python mastery. Free to use, adapt, and share!
+
+---
+
+<div align="center">
+
+Made with ❤️ for mastering Python | ⭐ Star this repo if you found it helpful AUTHOR - ADESH SRIVASTAVA(TANMAY)!
+
+</div>
