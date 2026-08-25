@@ -409,6 +409,14 @@ Enter your choice (1-8): 8
 
 ---
 
+## 📄 License
+
+This repository is maintained for educational reference and Python mastery. Free to use, adapt, and share!
+
+---
+
+---
+
 <div align="center">
 
 Made with ❤️ for Python OOP & Personal Finance Automation | ⭐ Star this project if you found it useful AUTHOR - ADESH SRIVASTAVA(TANMAY)!

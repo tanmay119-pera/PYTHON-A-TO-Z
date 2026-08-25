@@ -369,6 +369,14 @@ Enter your choice (1-6): 6
 
 ---
 
+## 📄 License
+
+This repository is maintained for educational reference and Python mastery. Free to use, adapt, and share!
+
+---
+
+---
+
 <div align="center">
 
 Made with ❤️ for Python OOP & Data Persistence | ⭐ Star this project if you found it useful author - ADESH SRIVASTAVA(TANMAY)!
