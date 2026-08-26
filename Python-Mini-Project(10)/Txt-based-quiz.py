@@ -1,4 +1,4 @@
-"""                                         TEXT-BASED QUIZ GAME
+"""                                    PROJECT 10 - TEXT-BASED QUIZ GAME
 
 A beginner-friendly Python project built using:
 
